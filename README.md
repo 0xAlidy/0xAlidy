@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
-<h3 align="center">Student at 42 lyon</h3>
+<h3 align="center">Alumni 42 school</h3>
 
 - Trading algorithm developer
 
